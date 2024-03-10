@@ -2,7 +2,7 @@
 title: "Send a Message to Microsoft Teams using Webhooks and PowerShell"
 description: "A quick guide to implementing teams notifications by utilizing the webhooks feature and powershell."
 pubDate: "2020-09-09T11:00:00.000Z"
-heroImage: "./src/assets/images/teams_message.png"
+heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
 # category slug: choose from "./src/data/category.js"
 category: "technology"
 # remove this line to publish
